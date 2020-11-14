@@ -32,6 +32,7 @@ background-color: white;
 
 }
 
+
 .sidenav a {
   text-decoration: none;
   color: black;
@@ -308,6 +309,19 @@ background-color: white;
   line-height: 25px;
   margin-right: 40px;
 }
+@media (min-width: 975px) and (max-width: 1815px) {
+.col-33 {
+	display: inline-block;
+	vertical-align: top;
+  margin: 20px;
+  width: 40%;
+  font-size: 1.2vw !important;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+
+}
+}
 
 .header a:focus {
   outline: none;
@@ -418,19 +432,8 @@ ul li a:focus{
   text-decoration: none
 }
 
-.col-33 {
-	display: inline-block;
-	vertical-align: top;
-  margin: 1em;
-  
-  width: 20vw;
-  font-size: 1.1vw;
-  background-color: white;
-  border: 1px solid black;
-  border-radius: 4px;
 
 
-}
 .logoLast {
 		width: 15rem;
 			padding-left: 1em;
@@ -440,13 +443,7 @@ ul li a:focus{
      text-align: center;
 		display: block;
 }
-.col-33 img {
-padding-top: 3em;
-	padding-left: 0.5em;
-		padding-right:0.5em;
-		width: 4em;
 
-}
 
 /*----------------------Slide 2 end--------------------*/
 
@@ -480,7 +477,7 @@ ul.courses2 li {
 	vertical-align: top;
   margin: 20px;
   width: 40%;
-  font-size: 2.8vw;
+  font-size: 3.3vw;
   background-color: white;
   border: 1px solid black;
   border-radius: 4px;
