@@ -154,6 +154,9 @@ background-color: white;
   p{
     font-size: 35;
   }
+  .col-33{
+    width: 100%;
+  }
 }
 /*---------------------columns--------------------*/
 
