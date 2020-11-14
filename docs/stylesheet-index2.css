@@ -18,7 +18,7 @@ background-color: white;
 /*------------Side menu------------*/
 .sidenav {
   display: none;
-
+  
 height: 100vh;
   position: fixed;
   z-index: 1;
@@ -289,7 +289,7 @@ height: 100vh;
 
 .header {
   padding: 5px;
-
+  
   overflow: hidden;
   text-align: center;
   background-color: #9c9c9c;
@@ -319,7 +319,9 @@ height: 100vh;
   background-color: white;
   border: 1px solid black;
   border-radius: 4px;
+
 }
+
 }
 
 .header a:focus {
@@ -397,7 +399,7 @@ main{
 }
 
 .courseTitle{
-  font-size: 1em;
+  font-size: 2em;
 }
 
 ul.courses {
@@ -479,12 +481,6 @@ ul.courses2 li {
   border-radius: 4px;
 
 }
-
-.col-33 img{
-  margin-top: 40px;
-  width: 15%
-}
-
 .col-33Ny {
 	display: inline-block;
 	vertical-align: bottom;
