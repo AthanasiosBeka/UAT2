@@ -18,8 +18,8 @@ background-color: white;
 /*------------Side menu------------*/
 .sidenav {
   display: none;
-
-height: 100vh;
+  height: 100vh;
+  margin-right: -6vw;
   position: fixed;
   z-index: 1;
   top: 0;
