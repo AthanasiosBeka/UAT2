@@ -45,7 +45,7 @@ height: 100vh;
 	font-size: 22px;
 }
 
-.sidenav a:focus {
+a:focus {
   background-color: #fff82b;
   color: black;
   text-decoration: underline;
