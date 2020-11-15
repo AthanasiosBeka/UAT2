@@ -309,7 +309,19 @@ height: 100vh;
   line-height: 25px;
   margin-right: 40px;
 }
-@media (min-width: 975px) and (max-width: 1815px) {
+
+
+@media (max-width: 975px)  {
+.footer-logo{
+  width: 50%;
+  margin-top: 20px;
+  margin-bottom: -30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+}
+@media (min-width: 975px)  {
 .col-33 {
 	display: inline-block;
 	vertical-align: top;
@@ -322,7 +334,7 @@ height: 100vh;
 
 }
 .footer-logo{
-  width: 25%;
+  width: 18%;
   margin-top: 20px;
   margin-bottom: -30px;
   margin-left: auto;
@@ -531,15 +543,6 @@ footer p {
   display: block;
 
   margin-bottom: 20px;
-}
-
-.footer-logo{
-  width: 18%;
-  margin-top: 20px;
-  margin-bottom: -30px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
 
 i{
