@@ -158,7 +158,7 @@ height: 100vh;
   }
   .col-33{
     width: 100%;
-	font-size: 13vw;
+	font-size: 9vw;
   }
 }
 /*---------------------columns--------------------*/
@@ -399,7 +399,7 @@ main{
 }
 
 .courseTitle{
-  font-size: 2em;
+  font-size: 24px;
 }
 
 ul.courses {
@@ -475,7 +475,7 @@ ul.courses2 li {
 	vertical-align: top;
   margin: 20px;
   width: 40%;
-  font-size: 3.3vw;
+  font-size: 3.1vw;
   background-color: white;
   border: 1px solid black;
   border-radius: 4px;
@@ -487,7 +487,7 @@ ul.courses2 li {
   margin: 20px;
   width: 50vw;
   color: brown;
-  font-size: 2.4vw;
+  font-size: 1.3vw;
   background-color: white;
   border: 1px solid black;
   border-radius: 6px;
